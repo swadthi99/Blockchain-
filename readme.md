@@ -1,0 +1,1 @@
+#this is a platform to build dapps related to ThIRD Eye
